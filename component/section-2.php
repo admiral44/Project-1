@@ -12,7 +12,7 @@
     <!-- Card Section Cards -->
     <div class="row rowCard mt-2">
 
-        <div class="col-lg-4 col-md-6 col-sm-12 p-2 d-flex justify-content-center">
+        <div class="col-lg-4 col-md-6 col-sm-12 p-2 d-flex justify-content-center animation-element slide-up">
             <div class="card" style="width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
@@ -25,7 +25,7 @@
             </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 col-sm-12 p-2 d-flex justify-content-center">
+        <div class="col-lg-4 col-md-6 col-sm-12 p-2 d-flex justify-content-center animation-element slide-up">
             <div class="card" style="width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
@@ -38,7 +38,7 @@
             </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 col-sm-12 p-2 d-flex justify-content-center">
+        <div class="col-lg-4 col-md-6 col-sm-12 p-2 d-flex justify-content-center animation-element slide-up">
             <div class="card" style="width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>

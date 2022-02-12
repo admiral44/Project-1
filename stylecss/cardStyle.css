@@ -1,0 +1,10 @@
+.animation-element.slide-up {
+    opacity: 0;
+    transition: all 1000ms linear;
+    transform: translate3d(0, 100px, 0);
+}
+  
+.animation-element.slide-up.in-view {
+    opacity: 1;
+    transform: translate3d(0px, 0px, 0px);
+}
