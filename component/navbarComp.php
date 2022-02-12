@@ -1,8 +1,6 @@
-<?php ?>
-<!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="navbar">
     <div class="container d-flex align-items-center justify-content-around">
-        <div class="row rowsl align-items-center no-gutters">
+        <div class="row w-100 align-items-center no-gutters">
 
             <div class="col-md-4 col-lg-4 d-flex justify-content-between">
                 <a class="navbar-brand" href="#">Navbar</a>
@@ -21,12 +19,16 @@
                 </div>
 
                 <div class="col-md-6 col-lg-6 col-sm-12 gubbuC">
-                    <a class="navbar-brand" href="#">Facebook</a>
-                    <a class="navbar-brand" href="#">Whatsapp</a>
-                    <a class="navbar-brand" href="#">Linked-in</a>
+                    <a class="navbar-brand" href="https://www.github.com/admiral44">
+                        <img class="icon-links" src="img/icons/icon-1.svg" alt="GitHub">
+                    </a>
+                    <a class="navbar-brand" href="https://www.linkedin.com/in/shubham.nagane44">
+                        <img class="icon-links" src="img/icons/icon-2.svg" alt="GitHub">
+                    </a>
                 </div>
 
             </div>
         </div>
     </div>
 </nav>
+<?php ?>

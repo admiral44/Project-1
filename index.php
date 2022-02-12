@@ -8,14 +8,15 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-  
-  <!-- exrta CDN -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
   <!-- Extra CSS -->
   <link rel="stylesheet" type="text/css" href="stylecss/index.css">
   <link rel="stylesheet" type="text/css" href="stylecss/navCss.css">
+  <link rel="stylesheet" type="text/css" href="stylecss/section-1.css">
   <link rel="stylesheet" type="text/css" href="stylecss/cardStyle.css">
+
+  <!-- exrta CDN those script who needs to run first -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
   <title>Home</title>
 </head>

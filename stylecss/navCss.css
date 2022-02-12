@@ -1,9 +1,24 @@
+.hmenu {
+  float: right;
+}
+
+.gubbuC {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .navbar {
-    background-color: #333;
-    position: fixed;
-    top: -150px;
-    width: 100%;
-    display: block;
-    transition: top 0.3s;
-    z-index: 99;
-  }
+  background-color: #333;
+  position: fixed;
+  top: -150px;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+  z-index: 99;
+}
+
+.icon-links {
+  width: 30px;
+  height: 30px;
+}
