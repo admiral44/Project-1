@@ -6,6 +6,6 @@
 * .....
     > we can add image in MD Syntax.
 
-    ![Tux, the Linux mascot](/assets/images/tux.png)
+    ![Tux, the Linux mascot](img/icons/icon-1.svg)
 
 * And this the End of Paregraph.
