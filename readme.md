@@ -6,6 +6,9 @@
 * .....
     > we can add image in MD Syntax.
 
-    ![Github, the Git Logo](img/icons/icon-1.svg)
+    <figure>
+    <img src="/img/icons/icon-1.svg" style="height: 200px;width: 200px;" alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+    </figure>
 
 * And this the End of Paregraph.
