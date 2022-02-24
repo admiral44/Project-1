@@ -30,7 +30,7 @@
   <?php include("component/section-1.php"); ?>
 
   <!-- Card Section -->
-  <?php include("component/section-2.php");?>
+  <?php include("component/section-2.php"); ?>
 
   <!-- Optional JavaScript -->
   <script src="js/nav.js"></script>
