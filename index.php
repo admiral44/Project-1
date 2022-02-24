@@ -1,5 +1,4 @@
-<!doctype html>
-<html lang="en">
+<!dol lang="en">
 
 <head>
   <!-- Required meta tags -->
@@ -10,10 +9,12 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
   <!-- Extra CSS -->
-  <link rel="stylesheet" type="text/css" href="stylecss/index.css">
-  <link rel="stylesheet" type="text/css" href="stylecss/navCss.css">
-  <link rel="stylesheet" type="text/css" href="stylecss/section-1.css">
-  <link rel="stylesheet" type="text/css" href="stylecss/cardStyle.css">
+  <link rel="stylesheet" href="stylecss/index.css">
+  <link rel="stylesheet" href="stylecss/navCss.css">
+  <link rel="stylesheet" href="stylecss/section-1.css">
+  <link rel="stylesheet" href="stylecss/cardStyle.css">
+  <link rel="stylesheet" href="stylecss/section-3.css">
+  <link rel="stylesheet" href="stylecss/section-4.css">
 
   <!-- exrta CDN those script who needs to run first -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
@@ -31,6 +32,12 @@
 
   <!-- Card Section -->
   <?php include("component/section-2.php"); ?>
+
+  <!-- section-3 -->
+  <?php include("component/section-3.php");?>
+
+  <!-- section-4 -->
+  <?php include("component/section-4.php");?>
 
   <!-- Optional JavaScript -->
   <script src="js/nav.js"></script>

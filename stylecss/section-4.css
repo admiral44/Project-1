@@ -1,9 +1,9 @@
-.sectionVR {
+.sectionMR {
     padding: 50px;
-    border-radius: 8px 8px 0 0;
+    border-radius: 0 0 8px 8px;
     background-color: whitesmoke;
 }
-.sectionVT {
+.sectionMT {
     display: flex;
     align-items: center;
 }

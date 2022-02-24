@@ -1,9 +1,9 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="navbar">
+<nav class="navbar navbar-expand-lg navbar-light bg-light" id="navbar">
     <div class="container d-flex align-items-center justify-content-around">
         <div class="row w-100 align-items-center no-gutters">
 
             <div class="col-md-4 col-lg-4 d-flex justify-content-between">
-                <a class="navbar-brand" href="#">Navbar</a>
+                <a class="navbar-brand" href="#"><h3>Shubham</h3></a>
 
                 <button class="navbar-toggler hmenu" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
