@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="stylecss/cardStyle.css">
   <link rel="stylesheet" href="stylecss/section-3.css">
   <link rel="stylesheet" href="stylecss/section-4.css">
+  <link rel="stylesheet" href="stylecss/section-5.css">
 
   <!-- exrta CDN those script who needs to run first -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
@@ -38,6 +39,9 @@
 
   <!-- section-4 -->
   <?php include("component/section-4.php");?>
+
+  <!-- section-5 -->
+  <?php include("component/section-5.php");?>
 
   <!-- Optional JavaScript -->
   <script src="js/nav.js"></script>
